@@ -194,7 +194,7 @@ font-weight: bold;
     }
 
 .about-us-list{
-    width: calc((100% - 72px) / 4);
+    
 }
 
 .about-us-conteiner{
@@ -212,7 +212,7 @@ font-weight: bold;
         letter-spacing: 0.02em;
         color: #2E2F42;
         margin-bottom: 8px;
-        
+        width: calc((100% - 72px) / 4);
 }
 .description{
     
