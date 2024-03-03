@@ -193,9 +193,6 @@ font-weight: bold;
         overflow: hidden;
     }
 
-.about-us-list{
-    width: calc((100% - 72px) / 4);
-}
 
 .about-us-conteiner{
     display: flex;
@@ -204,7 +201,11 @@ font-weight: bold;
     
 }
 
-   
+.section-two-list{
+
+width: calc((100% - 72px) / 4);
+}
+
 .about-us{
     font-weight: 500;
         font-size: 20px;
